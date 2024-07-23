@@ -33,35 +33,35 @@ The course is divided into four main units, each covering specific aspects of ne
 
 ### Unit 1: Basics of Neural Networks
 Part 1: 
-- 1.1 What is a Neural Network?
-- 1.2 Human Brain
-- 1.3 Models of a Neuron 
-- 1.4 Neural Networks viewed as Directed Graphs
-- 1.5 Feedback
-- 1.6 Network Architectures
-- 1.7 Knowledge Representation
-- 2.1 Introduction to Learning
-- 2.2 Error-Correction Learning
-- 2.3 Memory-Based Learning
-- 2.4 Hebbian Learning
-- 2.5 Competitive Learning
-- 2.6 Boltzmann Learning
-- 2.7 Credit-Assignment Problem
-- 2.8 Learning with a Teacher
-- 2.9 Learning without a Teacher
+- 1.1 What is a Neural Network? pg.23
+- 1.2 Human Brain pg.28
+- 1.3 Models of a Neuron pg.32
+- 1.4 Neural Networks viewed as Directed Graphs pg.37
+- 1.5 Feedback pg.40
+- 1.6 Network Architectures pg.43
+- 1.7 Knowledge Representation pg.45
+- 2.1 Introduction to Learning pg.71
+- 2.2 Error-Correction Learning pg.73
+- 2.3 Memory-Based Learning pg.75
+- 2.4 Hebbian Learning pg.77
+- 2.5 Competitive Learning pg.80
+- 2.6 Boltzmann Learning pg.82
+- 2.7 Credit-Assignment Problem pg.84
+- 2.8 Learning with a Teacher pg.85
+- 2.9 Learning without a Teacher pg.86
 
 Part 2:
-- 3.1 Introduction
-- 3.2 Adaptive Filtering Problem
-- 3.3 Uncontrained Optimization Problem
-    - Method of Steepest Decent
-    - Newton's Method
+- 3.1 Introduction pg.139
+- 3.2 Adaptive Filtering Problem pg.140
+- 3.3 Uncontrained Optimization Problem pg.143
+    - Method of Steepest Decent 
+    - Newton's Method 
     - Gauss-Newton Method 
-- 3.4 Linear Least-Squares Filters
+- 3.4 Linear Least-Squares Filters pg.148
     - Winer Filter 
-- 3.5 Least-Mean-Square Algorithm
-- 3.6 Learning Curves
-- 3.7 Learning Rate Annealing Techniques
+- 3.5 Least-Mean-Square Algorithm pg.150
+- 3.6 Learning Curves pg.155
+- 3.7 Learning Rate Annealing Techniques pg.156
 
 ### Unit 2: Single and Multi-layer Perceptron
 - 3.8 Perceptron
